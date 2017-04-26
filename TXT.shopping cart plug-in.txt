@@ -1,0 +1,38 @@
+<script type='text/javascript'>
+//<![CDATA[
+  // Set Shopping cart and Blogshop currency Here
+$(document).ready(function() {
+simpleCart.currency({
+        code: "IDR" ,
+        name: "Indonesian Rupiah" ,
+        symbol: "Rp&nbsp;" ,
+        delimiter: " " , 
+        decimal: "." , 
+        after: false ,
+        accuracy: 2
+});
+});
+//]]>
+</script>
+<script type='text/javascript'>
+//<![CDATA[
+  // No customization needed. For shopping cart plug-in initiation
+$(document).ready(function() {
+    simpleCart({
+        cartColumns: [
+            { attr: "name" , label: "Item" } ,
+            { attr: "price" , label: "Price", view: "currency" } ,
+            { view: "decrement" , label: false , text: "-" } ,
+            { attr: "quantity" , label: "Qty", view: "input" } ,
+            { view: "increment" , label: false , text: "+" } ,
+            { attr: "total" , label: "Total", view: 'currency' } ,
+            { view: "remove" , text: "X" , label: "Cancel" },
+        ] , 
+        cartStyle: "table",
+        excludeFromCheckout	: ['thumbimg' , 'description'],
+});
+});
+//]]>
+</script>
+
+ 
