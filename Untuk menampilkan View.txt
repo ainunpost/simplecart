@@ -1,0 +1,3 @@
+<a class='view-cart' href='/p/checkout.html' title='Klik untuk Checkout'>View Cart</a>
+  <div class='simpleCart_quantity'/>
+<b class='items'>item(s)</b> 
