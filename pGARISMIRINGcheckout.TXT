@@ -1,0 +1,23 @@
+<center>
+<img src="https://lh3.googleusercontent.com/-VmbgAcgCkRg/VGvDeGmjEGI/AAAAAAAAAxc/9RB0Q5v6jic/s1600/checkout%2520image%2520animasi.gif" width="100%" /> <br />
+<div id="cart-details">
+<h4 style="text-align: center;">
+    <span style="color: #073763;"><u>Item di Keranjang Anda Sekarang</u></span></h4>
+<div class="simpleCart_items">
+<table><tbody>
+<tr class="headerRow"><th class="item-thumbimg"></th><th class="item-name">Item</th><th class="item-price">Price</th><th class="item-decrement"></th><th class="item-quantity">Qty</th><th class="item-increment"></th><th class="item-total">Total</th><th class="item-remove">Cancel</th></tr>
+</tbody></table>
+</div>
+<h4 class="button" style="display: block; text-align: center;">
+    Total Belanja Anda : <span style="color: red;"><span class="simpleCart_total">Rp&nbsp;0.00</span></span>
+    </h4>
+</div>
+</center>
+<br />
+<center>
+   <script src="http://www.emailmeform.com/builder/forms/jsform/cj8fVUaJ8F8apddREBKg9b5" type="text/javascript"></script>
+<div style="margin-top:18px;text-align:center"><div id='emf_advertisement'><font face="Verdana" size="2" color="#000000">Powered by</font><span style="position: relative; padding-left: 3px; bottom: -5px;"><img src="//assets.emailmeform.com/images/footer-logo.png?RU1GLTAyLTI5" /></span><font face="Verdana" size="2" color="#000000">EMF </font><a style="text-decoration:none;" href="http://www.emailmeform.com/" target="_blank"><font face="Verdana" size="2" color="#000000">Contact Form</font></a></div></div>
+</center>
+<div style="color: blue;">
+<br />
+Rincian selengkapnya akan dikirimkan ke email anda secara otomatis. Kami berharap anda puas berbelanja di toko kami. Kami akan selalu menunggu kedatangan Anda kembali untuk pengalaman berbelanja di toko kami selanjutnya. <i>Terima Kasih.</i></div>
